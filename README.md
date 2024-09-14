@@ -1,35 +1,17 @@
-# .
+# Vue.js - travel project
 
-This template should help get you started developing with Vue 3 in Vite.
+## Presentation 
+The project presented is the second project of Star2Impact's Vue.js course. The web app shows the energy consumption data of the hotel's solar panels, accompanied by real-time weather data
 
-## Recommended IDE Setup
+## Weather API
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+weather API used [weatherApi](https://www.weatherapi.com/)
 
-## Customize configuration
+## Frameworks used
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- Vue.js
+- Bootstrapp
 
-## Project Setup
+## Contact 
 
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+For any questions you can write to this email: [matilde.webdev@gmail.com](matilde.webdev@gmail.com)

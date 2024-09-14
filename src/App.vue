@@ -5,8 +5,7 @@ import weatherApi from './components/weatherApi.vue'
 
 <template>
 
-<solarPanelsApi/>
-
+<weatherApi/>
 
 </template>
 
