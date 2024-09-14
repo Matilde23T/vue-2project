@@ -62,14 +62,14 @@ onMounted(() => {
       <!-- Energy prod -->
       <div class="col-md-6">
         <div class="dates">
-          <h5>Energy Production</h5>
+          <h5>Power Production</h5>
           <h1>{{ powerProduction }} kW</h1>
         </div>
       </div>
       <!-- Month energy -->
       <div class="col-md-6">
         <div class="dates">
-          <h5>Month energy</h5>
+          <h5>This month's Energy</h5>
           <h1>{{ monthEnergy }} kWh</h1>
         </div>
       </div>
@@ -81,13 +81,13 @@ onMounted(() => {
     <div class="row">
       <div class="col-md-6">
         <div class="dates">
-          <h5>Today Energy</h5>
+          <h5>Today's Energy</h5>
           <h1>{{ todayEnergy }} kWh</h1>
         </div>
       </div>
       <div class="col-md-6">
         <div class="dates">
-          <h5>Left time energy</h5>
+          <h5>Left Time Energy</h5>
           <h1>{{ leftTimeEnergy }} kWh</h1>
         </div>
       </div>
